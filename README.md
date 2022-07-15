@@ -28,3 +28,7 @@ In this last section, we look at how to extend the information we can capture by
 **Note:** To be informed when new training resources are coming and to participate in shaping what new training resources are provided by Tim, sign up for the training announcements newsletter at [https://nytimes.com](https://nytimes.com "Training Announcements Newsletter")
 
 
+## Sample Test ##
+- Bullet 1
+- Bullet 2
+- Buller 3
